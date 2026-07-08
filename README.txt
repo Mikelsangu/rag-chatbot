@@ -1,0 +1,1 @@
+ -"el troceado simple por caracteres funciona pero genera ruido, una mejora futura sería trocear respetando límites de frase o párrafo"
